@@ -36,7 +36,7 @@ __4. *Kasus* : Tragedi Semanggi dan Kerusuhan Mei 1998__
 
 *Hak yang dilanggar* : tewasnya ribuan orang, wanita menjadi korban perkosaan, dan tertembaknya sejumlah mahasiswa peserta demonstrasi.
 
-*Penyebab* :
+*Penyebab* : adanya keputusan DPR yang mengesahkan UU Penanggulangan Keadaan Bahaya (UU PKB) pada 23 September 1999.
 
 *Penyelesaian* : kejaksaan agung tidak menindaklanjuti kasus ini karena tidak ditemukan pelanggaran HAM berat. Sebab, kasus penembakan mahasiswa Trisakti sudah diputus oleh Pengadilan Militer pada tahun 1999.
 
