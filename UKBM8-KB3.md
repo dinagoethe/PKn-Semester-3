@@ -5,13 +5,16 @@
 
 **Kasus Pelanggaran HAM**
 
-1. 
-*Kasus* : Muslim Rohingya di Myanmar
-*Hak yang dilanggar* : perampasan tempat tinggal dan kekerasan bagi mereka yang tidak mau pindah. 
-*Penyebab* : karena mereka adalah kaum minoritas dan dianggap tidak memiliki kewarganegaraan.
-*Penyelesaian* : 
+__1. *Kasus* : Muslim Rohingya di Myanmar__
 
-2. *Kasus* : Tragedi 1965-1966
+*Hak yang dilanggar* : perampasan tempat tinggal dan kekerasan bagi mereka yang tidak mau pindah. 
+
+*Penyebab* : karena mereka adalah kaum minoritas dan dianggap tidak memiliki kewarganegaraan.
+
+*Penyelesaian* : Menurut laporan Reuters, sebanyak 700.000 warga etnis Rohingnya melarikan diri dari serangan militer Myanmar selama pelanggaran HAM yang berlangsung dari tahun 2016 hingga 2017.
+
+
+__2. *Kasus* : Tragedi 1965-1966__
 
 *Hak yang dilanggar* : 500.000-3 juta tewas terbunuh dan ribuan lainnya diasingkan sebagai operasi pembersihan PKI.
 
@@ -20,7 +23,7 @@
 *Penyelesaian* : Kejaksaan tidak jadi mengurus kasus ini dan mengembalikan berkas ke Komnas HAM dengan alasan data kurang lengkap.
 
 
-3. *Kasus* : Penembakan misterius 1982-1985
+__3. *Kasus* : Penembakan misterius 1982-1985__
 
 *Hak yang dilanggar* : sebanyak 532 orang tewas pada tahun 1983 dan 367 orang di antaranya tewas ditembak.
 
@@ -29,7 +32,7 @@
 *Penyelesaian* : pada tahun 1985, tercatat 74 orang tewas dengan 28 di antaranya tewas ditembak.
 
 
-4. *Kasus* : Tragedi Semanggi dan Kerusuhan Mei 1998
+__4. *Kasus* : Tragedi Semanggi dan Kerusuhan Mei 1998__
 
 *Hak yang dilanggar* : tewasnya ribuan orang, wanita menjadi korban perkosaan, dan tertembaknya sejumlah mahasiswa peserta demonstrasi.
 
@@ -38,7 +41,7 @@
 *Penyelesaian* : kejaksaan agung tidak menindaklanjuti kasus ini karena tidak ditemukan pelanggaran HAM berat. Sebab, kasus penembakan mahasiswa Trisakti sudah diputus oleh Pengadilan Militer pada tahun 1999.
 
 
-5. *Kasus* : Terbunuhnya Munir
+__5. *Kasus* : Terbunuhnya Munir__
 
 *Hak yang dilanggar* : pembunuhan orang. 
 
@@ -47,7 +50,7 @@
 *Penyelesaian* :  seorang pilot garuda yang membawanya dari Jakarta-Amsterdam dinyatakan bersalah karena terbukti telah meracuni Munir dalam penerbangannya. Namun, hingga saat ini, para aktivis HAM menganggap kasus ini belum selesai.
 
 
-6. *Kasus* : Tragedi Wamena
+__6. *Kasus* : Tragedi Wamena__
 
 *Hak yang dilanggar* :  aparat TNI-Polri melakukan penyisiran, penangkapan, penyiksaan, perampasan secara paksa, dan menyebabkan korban jiwa, pemaksaan penandatanganan surat pernyataan, serta perusakan fasilitas umum.
 
@@ -56,14 +59,25 @@
 *Penyelesaian* : Tercatat 42 orang meninggal dunia karena kelaparan  dan 15 orang jadi korban perampasan.
 
 
-7. *Kasus* :
-*Hak yang dilanggar* : 
-*Penyebab* :
-*Penyelesaian* : 
+__7. *Kasus* : pelanggaran HAM Israel terhadap Palestina__
 
-8. *Kasus* :
-*Hak yang dilanggar* : 
-*Penyebab* :
-*Penyelesaian* : 
+*Hak yang dilanggar* : penyerangan militer terhadap warga Palestina, memblokade warga Palestina sehingga mereka memiliki akses yang terbatas. 
 
-[sumber](https://www.inibaru.id/hits/5-kasus-ham-yang-pernah-terjadi-di-indonesia-ada-yang-belum-selesai)
+*Penyebab* : Israel yang ingin menguasai wilayah Palestina. 
+
+*Penyelesaian* : perseteruan keduanya masih berlangsung hingga sekarang. 
+
+
+__8. *Kasus* : kekejaman Rezim Apartheid__
+
+*Hak yang dilanggar* : kebebasan orang kulit hitam/berwarna yang dibatasi dan 
+diskriminasi terhadap mereka juga. Seperti tidak diperbolehkan menggunakan fasilitas umum.
+
+*Penyebab* : warga kulit putih yang minoritas ingin berkuasa di daerah Afrika Selatan.
+
+*Penyelesaian* : warga asli Afrika/kulit hitam melakukan protes. Namun sayangnya, protes ini hanya berujung pada tewasnya 500 sampai 1000 warga kulit hitam.
+
+
+
+[sumber1](https://www.inibaru.id/hits/5-kasus-ham-yang-pernah-terjadi-di-indonesia-ada-yang-belum-selesai)
+[sumber2](https://cerdika.com/contoh-kasus-pelanggaran-ham-di-indonesia-dan-dunia/)
