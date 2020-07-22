@@ -4,33 +4,33 @@
 ### KB 1
 >Bagian 1
 
-a. Definisi hak dan kewajiban dari para pakar 
+#### a. Definisi hak dan kewajiban dari para pakar 
 
-1. Hak menurut Srijanti: Hak merupakan unsur normatif yang berfungsi pedoman berperilaku, melindungi kebebasan, kekebalan, serta menjamin adanya peluang bagi manusia dalam menjaga harkat dan martabatnya. (Srijanti,2007:121)
+__1. Hak menurut Srijanti__: Hak merupakan unsur normatif yang berfungsi pedoman berperilaku, melindungi kebebasan, kekebalan, serta menjamin adanya peluang bagi manusia dalam menjaga harkat dan martabatnya. (Srijanti,2007:121)
 
-Kewajiban menurut Srijanti : Kewajiban pada intinya adalah sesuatu yang harus dilakukan. Kewajiban berarti suatu keharusan maka apapun itu jika merupakan kewajiban kita harus melaksaakannya tanpa ada alasan apapun itu.
-
-
-
-2. Hak menurut Notonegoro:  Hak adalah kuasa untuk menerima atau melakukan suatu yang semestinya diterima atau dilakukan melulu oleh pihak tertentu dan tidak dapat dilakukan oleh pihat lain manapun juga yang pada prinsipnya dapat dituntut secara paksa olehnya. ( Prof. Dr. Notonegoro,2010:30)
-
-Kewajiban menurut Notonegoro : Kewajiban adalah beban untuk memberikan sesuatu yang semestinya dibiarkan atau diberikan melulu oleh pihak tertentu tidak dapat oleh pihak lain manapun yang pada prinsipnya dapat dituntut secara paksa oleh yang berkepentingan. (Prof. Dr.Notonegoro, 2010:31)
+__Kewajiban menurut Srijanti :__ Kewajiban pada intinya adalah sesuatu yang harus dilakukan. Kewajiban berarti suatu keharusan maka apapun itu jika merupakan kewajiban kita harus melaksaakannya tanpa ada alasan apapun itu.
 
 
 
-3. Hak menurut Soerjono Soekanto: 
+__2. Hak menurut Notonegoro:__  Hak adalah kuasa untuk menerima atau melakukan suatu yang semestinya diterima atau dilakukan melulu oleh pihak tertentu dan tidak dapat dilakukan oleh pihat lain manapun juga yang pada prinsipnya dapat dituntut secara paksa olehnya. ( Prof. Dr. Notonegoro,2010:30)
+
+__Kewajiban menurut Notonegoro :__ Kewajiban adalah beban untuk memberikan sesuatu yang semestinya dibiarkan atau diberikan melulu oleh pihak tertentu tidak dapat oleh pihak lain manapun yang pada prinsipnya dapat dituntut secara paksa oleh yang berkepentingan. (Prof. Dr.Notonegoro, 2010:31)
+
+
+
+__3. Hak menurut Soerjono Soekanto: __
 
 Hak searah atau relatif
 Pada umumnya hak ini muncul dalam hukum perikatan atau perjanjian. Contohnya hak menagih atau hak melunasi prestasi.
-Hak jamak arah atau absolut
-Hak jenis ini terdiri dari:
-Hak dalam HTN (Hukum Tata Negara) pada penguasa menagih pajak, pada warga hak asasi.
-Hak kepribadian, hak atas kehidupan, hak tubuh, hak kehormatan dan kebebasan.
-Hak kekeluargaan, hak suami istri, hak orang tua, hak anak.
-Hak atas objek imateriel, hak cipta, merek dan paten.
+- Hak jamak arah atau absolut
+- Hak jenis ini terdiri dari:
+- Hak dalam HTN (Hukum Tata Negara) pada penguasa menagih pajak, pada warga hak asasi.
+- Hak kepribadian, hak atas kehidupan, hak tubuh, hak kehormatan dan kebebasan.
+- Hak kekeluargaan, hak suami istri, hak orang tua, hak anak.
+- Hak atas objek imateriel, hak cipta, merek dan paten.
 
 
-4. Hak menurut Curzon: 
+__4. Hak menurut Curzon: __
 
 Hak sempurna
 Contoh hak yang bisa dilaksanakan dan dipaksakan dengan melalui hukum, dan hak yang tak sempurna. Contohnya hak yang dibatasi oleh kadaluwarsa.
@@ -42,8 +42,9 @@ Hak positif
 Merupakan hak yang menuntut dilakukannya suatu perbuatan, hak negatif supaya tidak melakukan suatu hal.
 Hak milik
 Adalah hak yang berhubungan dengan barang dan hak pribadi yang berhubungan dengan kedudukan seseorang.
-Kewajiban menurut Curzon : 
 
+
+__Kewajiban menurut Curzon : __
 
 Kewajiban mutlak
 Yaitu kewajiban yang tertuju kepada diri sendiri maka tidak berpasangan dengan hak dan nisbi, yang melibatkan hak di lain pihak.
@@ -58,21 +59,21 @@ Kewajiban ini tidak muncul dari perbuatan melawan hukum. Contohnya adalah kewaji
 Kewajiban adalah segala sesuatu yang dianggap sebagai suat
 
 
-5. Hak menurut KBBI : hak memiliki pengertian tentang sesuatu hal yang benar, milik, kepunyaan, kewenangan, kekuasaan untuk berbuat sesuatu (karena telah ditentukan oleh undang-undang dan aturan), kekuasaan yang benar atas sesuatu atau untuk menuntut sesuatu, derajat atau martabat.
+__5. Hak menurut KBBI :__ hak memiliki pengertian tentang sesuatu hal yang benar, milik, kepunyaan, kewenangan, kekuasaan untuk berbuat sesuatu (karena telah ditentukan oleh undang-undang dan aturan), kekuasaan yang benar atas sesuatu atau untuk menuntut sesuatu, derajat atau martabat.
 
-Kewajiban menurut KBBI : kewajiban adalah sesuatu yang wajib dilaksanakan, keharusan (sesuatu hal yang harus dilaksanakan).
-
-
-
-b. Persamaan : kewajiban sesuatu yang harus dilaksanakan sedangkan hak yang harus didapatkan. 
-
-perbedaan : beberapa ahli ada yang menggunakan pengertian dengan jenisnya ada pula yang tidak. 
+__Kewajiban menurut KBBI :__ kewajiban adalah sesuatu yang wajib dilaksanakan, keharusan (sesuatu hal yang harus dilaksanakan).
 
 
 
-c. Hak menurut saya adalah sesuatu yang pantas didapatkan oleh kita setelah kita atau orang lain melaksanakan kewajibannya. 
+__b. Persamaan :__ kewajiban sesuatu yang harus dilaksanakan sedangkan hak yang harus didapatkan. 
 
-Kewajiban menurut saya adalah sesuatu yang harus dikerjakan dengan penuh tanggung jawab agar mendapat hak yang seimbang. 
+__perbedaan :__ beberapa ahli ada yang menggunakan pengertian dengan jenisnya ada pula yang tidak. 
+
+
+
+__c. Hak__ menurut saya adalah sesuatu yang pantas didapatkan oleh kita setelah kita atau orang lain melaksanakan kewajibannya. 
+
+__Kewajiban__ menurut saya adalah sesuatu yang harus dikerjakan dengan penuh tanggung jawab agar mendapat hak yang seimbang. 
 
 >Bagian 2
 
