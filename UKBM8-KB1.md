@@ -18,7 +18,7 @@ __Kewajiban menurut Notonegoro :__ Kewajiban adalah beban untuk memberikan sesua
 
 
 
-__3. Hak menurut Soerjono Soekanto: __
+__3. Hak menurut Soerjono Soekanto:__
 
 Hak searah atau relatif
 Pada umumnya hak ini muncul dalam hukum perikatan atau perjanjian. Contohnya hak menagih atau hak melunasi prestasi.
@@ -30,7 +30,7 @@ Pada umumnya hak ini muncul dalam hukum perikatan atau perjanjian. Contohnya hak
 - Hak atas objek imateriel, hak cipta, merek dan paten.
 
 
-__4. Hak menurut Curzon: __
+__4. Hak menurut Curzon:__
 
 Hak sempurna
 Contoh hak yang bisa dilaksanakan dan dipaksakan dengan melalui hukum, dan hak yang tak sempurna. Contohnya hak yang dibatasi oleh kadaluwarsa.
@@ -44,7 +44,7 @@ Hak milik
 Adalah hak yang berhubungan dengan barang dan hak pribadi yang berhubungan dengan kedudukan seseorang.
 
 
-__Kewajiban menurut Curzon : __
+__Kewajiban menurut Curzon :__
 
 Kewajiban mutlak
 Yaitu kewajiban yang tertuju kepada diri sendiri maka tidak berpasangan dengan hak dan nisbi, yang melibatkan hak di lain pihak.
