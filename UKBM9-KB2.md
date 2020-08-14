@@ -10,3 +10,19 @@ No | Indikator Demokrasi | Periode 1945-1949 | Periode 1959-1998 | Periode 1998-
 3 | Pola rekrutmen politik |masih terbatas karena tidak adanya demokrasi dalam sistem pemerintahan, presiden masih memiliki pengaruh terkuat dan dapat menjadi diktator.  | Mengaburnya sistem kepartaian, peran legislatif lemah, rekrutmen politik bersifat tertutup | rekrutmen politik secara terbuka dan melibatkan seluruh masyarakat. 
 4 | Pelaksanaan pemilihan umum | pemilu dilaksanakan demokratis|  masih belum demokratis, banyak terjadi kecurangan| pemilu lebih demokratis
 5 | Pemenuhan hak-hak dasar warga negara | hak-hak dasar tidak dikurangi | Hak asasi menjadi lemah, kebebasan pers tidak ada, dan kebebasan berpendapat merupakan barang langka. | kebebasan pers. sebagian besar hak dasar rakyat terjamin.
+
+
+No | Indikator Demokrasi | Periode 1945-1949 | Periode 1959-1998 | Periode 1998-sekarang 
+--|-------------------| --------------------|-------------------|----------------------
+1 | Akuntabilitas | pertanggungjawaban pemegang jabatan dan politisi pada umumnya sangat tinggi. |
+2 | Rotasi kekuasaan |
+3 | Pola rekrutmen politik | 
+4 | Pelaksanaan pemilihan umum | Pemilihan Umum hanya dilaksanakan satu kali pada 1955, tetapi Pemilihan Umum tersebut benar-benar dilaksanakan dengan prinsip demokrasi. |
+5 | Pemenuhan hak-hak dasar warga negara | pemberian hak-hak politik secara menyeluruh, hak-hak dasar tidak dikurangi sama sekali. | 
+
+
+
+
+
+
+
