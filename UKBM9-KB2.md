@@ -4,6 +4,7 @@
 ### KB 2
 
 Nama : Siti Ramadina G.K
+
 Kelas : XI IPA 4
 
 Perbaikan
